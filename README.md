@@ -11,7 +11,7 @@ While for F5 Engage this may not be the case, this document's purpose is onto to
 
 Students can either (choose one of the options and click the link below to continue):
 - [ ] [Delete ALL Existing Objects and Start Over for Class 2](/Delete)
-- [ ] [Re-Use Existing Objects for Class 2](/ReUse)
+- [ ] [Re-Use Existing Objects for Class 2](/ReUse). ReUsing the existing objects assumes Student has finished successfully Class 1 - Lab 1, 2 and 3.
 
 
 
