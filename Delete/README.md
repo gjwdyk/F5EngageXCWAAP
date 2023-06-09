@@ -90,8 +90,8 @@ Once you've deleted the ***App Firewall*** object(s) you created previously, the
 ### Delete Service Policy Objects
 
 Class 1 Lab 1, 2 and 3 do not use ***Service Policy*** objects.
-So if you've just finish Class 1 Lab 1, 2 and 3, go ahead and skip this section.
-However, if you've finish Class 1 Lab 1, 2 and 3 ***AND*** Class 2 Lab 1, 2 and 3; and want to retry the hands-on again, you need to delete the ***Service Policy*** objects also.
+So if you've just finish Class 1 Lab 1, 2 and 3, go ahead skip this section and continue with the next section.
+However, if you've finish Class ***1*** Lab 1, 2 and 3 ***AND*** Class ***2*** Lab 1, 2 and 3; and want to retry the hands-on again, you need to delete the ***Service Policy*** objects also.
 
 Ensure you are on the `Web App & API Protection` service.
 Click on the `Manage`, `Service Policies` and `Service Policies`.
