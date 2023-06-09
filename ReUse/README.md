@@ -5,10 +5,11 @@
 ## Re-Use Existing Objects for Class 2
 
 Class 2: [F5 Distributed Cloud - WAF/WAAP Deeper Dive](https://clouddocs.f5.com/training/community/f5xc/html/class2/class2.html) uses the same ***HTTP Load Balancer***, ***Origin Pool***, and ***App Firewall*** objects as in Class 1, with some minor changes in the detailed configurations.
-
-
+Ensure you're still on your allocated ***NameSpace***, when you follow the below steps.
 
 <br><br><br>
+
+
 
 ### Change the Origin Pool of the HTTP Load Balancer
 
@@ -82,11 +83,11 @@ Scroll to the bottom of ***App Firewall Configuration*** page and click `Save an
 
 ### Continue with the Official Class Guide
 
-Once student has made changes to the ***ReUsed*** objects, student shall go back to the official Class 2 guide: [F5 Distributed Cloud - WAF/WAAP Deeper Dive - Lab 1 - Task 2](https://clouddocs.f5.com/training/community/f5xc/html/class2/lab1.html#task-2-configure-waf-policy-on-the-load-balancer), and scroll down to Point 10.
-
-
+Once student has made changes to the ***ReUsed*** objects, student shall continue back to the official Class 2 guide: [F5 Distributed Cloud - WAF/WAAP Deeper Dive - Lab 1 - Task 2](https://clouddocs.f5.com/training/community/f5xc/html/class2/lab1.html#task-2-configure-waf-policy-on-the-load-balancer), and scroll down to Point 10.
 
 <br><br><br>
+
+
 
 ***
 
