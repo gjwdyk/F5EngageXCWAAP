@@ -98,30 +98,6 @@ Once you've deleted the ***App Firewall*** object(s) you created previously, the
 
 
 
-### Delete Service Policy Objects
-
-Class 1 Lab 1, 2 and 3 do not use ***Service Policy*** objects.
-So if you've just finish Class 1 Lab 1, 2 and 3, go ahead skip this section and continue with the next section.
-However, if you've finish Class ***1*** Lab 1, 2 and 3 ***AND*** Class ***2*** Lab 1, 2 and 3; and want to retry the hands-on again, you need to delete the ***Service Policy*** objects also.
-
-Ensure you are on the `Web App & API Protection` service.
-Click on the `Manage`, `Service Policies` and `Service Policies`.
-
-![XCWAAPManageServicePolicy.png](XCWAAPManageServicePolicy.png)
-
-Select the ***Service Policy*** objects you created previously, and click `Delete selected` on top of the list/table.
-Do ***NOT*** delete ***Service Policy*** objects which are ***NOT*** under your allocated ***NameSpace***.
-
-![XCWAAPManageServicePolicySelect.png](XCWAAPManageServicePolicySelect.png)
-
-Once you've deleted the ***Service Policy*** objects you created previously, the ***Service Policy*** page should appear similar to the below.
-
-![XCWAAPManageServicePolicyResult.png](XCWAAPManageServicePolicyResult.png)
-
-<br><br><br>
-
-
-
 ### Continue with the Official Class Guide
 
 Once student has deleted existing objects as guided on above steps; student shall continue back to the official Class 2 guide: [F5 Distributed Cloud - WAF/WAAP Deeper Dive](https://clouddocs.f5.com/training/community/f5xc/html/class2/class2.html).
